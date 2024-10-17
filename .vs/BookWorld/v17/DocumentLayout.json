@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project H\\BookWorld\\BookWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E83472D5-C22E-429C-8388-E02B83174A12}|Book.API\\Book.API.csproj|e:\\project h\\bookworld\\bookworld\\book.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83472D5-C22E-429C-8388-E02B83174A12}|Book.API\\Book.API.csproj|solutionrelative:book.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A055137D-A710-4D7F-AB74-94F42C30812E}|Book.Service\\Book.Service.csproj|e:\\project h\\bookworld\\bookworld\\book.service\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A055137D-A710-4D7F-AB74-94F42C30812E}|Book.Service\\Book.Service.csproj|solutionrelative:book.service\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D481CA-63E3-452C-9AF8-8CF486158A8F}|Book.Data\\Book.Data.csproj|e:\\project h\\bookworld\\bookworld\\book.data\\repositories\\appuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D481CA-63E3-452C-9AF8-8CF486158A8F}|Book.Data\\Book.Data.csproj|solutionrelative:book.data\\repositories\\appuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\Project H\\BookWorld\\BookWorld\\Book.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Book.API\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\Project H\\BookWorld\\BookWorld\\Book.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Book.API\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAcwDUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:11:11.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "E:\\Project H\\BookWorld\\BookWorld\\Book.Service\\AccountService.cs",
+              "RelativeDocumentMoniker": "Book.Service\\AccountService.cs",
+              "ToolTip": "E:\\Project H\\BookWorld\\BookWorld\\Book.Service\\AccountService.cs",
+              "RelativeToolTip": "Book.Service\\AccountService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAIwBQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:00:06.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppUserRepository.cs",
+              "DocumentMoniker": "E:\\Project H\\BookWorld\\BookWorld\\Book.Data\\Repositories\\AppUserRepository.cs",
+              "RelativeDocumentMoniker": "Book.Data\\Repositories\\AppUserRepository.cs",
+              "ToolTip": "E:\\Project H\\BookWorld\\BookWorld\\Book.Data\\Repositories\\AppUserRepository.cs",
+              "RelativeToolTip": "Book.Data\\Repositories\\AppUserRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwA0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:41:35.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

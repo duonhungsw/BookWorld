@@ -1,0 +1,15 @@
+E:\Project H\BookWorld\BookWorld\Book.Core\bin\Debug\net8.0\Book.Core.deps.json
+E:\Project H\BookWorld\BookWorld\Book.Core\bin\Debug\net8.0\Book.Core.dll
+E:\Project H\BookWorld\BookWorld\Book.Core\bin\Debug\net8.0\Book.Core.pdb
+E:\Project H\BookWorld\BookWorld\Book.Core\bin\Debug\net8.0\Book.Common.dll
+E:\Project H\BookWorld\BookWorld\Book.Core\bin\Debug\net8.0\Book.Common.pdb
+E:\Project H\BookWorld\BookWorld\Book.Core\obj\Debug\net8.0\Book.Core.csproj.AssemblyReference.cache
+E:\Project H\BookWorld\BookWorld\Book.Core\obj\Debug\net8.0\Book.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project H\BookWorld\BookWorld\Book.Core\obj\Debug\net8.0\Book.Core.AssemblyInfoInputs.cache
+E:\Project H\BookWorld\BookWorld\Book.Core\obj\Debug\net8.0\Book.Core.AssemblyInfo.cs
+E:\Project H\BookWorld\BookWorld\Book.Core\obj\Debug\net8.0\Book.Core.csproj.CoreCompileInputs.cache
+E:\Project H\BookWorld\BookWorld\Book.Core\obj\Debug\net8.0\Book.Core.csproj.Up2Date
+E:\Project H\BookWorld\BookWorld\Book.Core\obj\Debug\net8.0\Book.Core.dll
+E:\Project H\BookWorld\BookWorld\Book.Core\obj\Debug\net8.0\refint\Book.Core.dll
+E:\Project H\BookWorld\BookWorld\Book.Core\obj\Debug\net8.0\Book.Core.pdb
+E:\Project H\BookWorld\BookWorld\Book.Core\obj\Debug\net8.0\ref\Book.Core.dll
