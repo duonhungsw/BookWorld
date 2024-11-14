@@ -1,0 +1,83 @@
+# .NET Core
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+.idea/
+
+# ASP.NET
+.vs/
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files (alternative)
+*.wixproj
+
+# ASP.NET Core Debugging
+project.lock.json
+project.fragment.lock.json
+
+# ASP.NET Core / Entity Framework
+appsettings.json
+appsettings.Development.json
+secrets.json
+**/secrets.json
+
+# .NET build output
+out/
+
+# User-specific files
+.idea/
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Azure Functions files
+local.settings.json
+
+# JetBrains Rider
+.idea/
+
+# Mac OS X
+.DS_Store
+
+# Linux
+*~
+
+# npm packages
+node_modules/
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+.nuget/
+
+# Visual Studio for Mac
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files (alternative)
+*.wixproj
+
+# Debugger Files
+*.bak
+*.swp
